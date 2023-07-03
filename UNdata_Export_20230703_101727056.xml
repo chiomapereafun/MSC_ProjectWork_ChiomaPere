@@ -1,0 +1,88 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Commodity - Transaction">Electricity - total solar production</field>
+            <field name="Year">2020</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">41.988</field>
+            <field name="Quantity Footnotes"></field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Commodity - Transaction">Electricity - total solar production</field>
+            <field name="Year">2019</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">41.295</field>
+            <field name="Quantity Footnotes"></field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Commodity - Transaction">Electricity - total solar production</field>
+            <field name="Year">2018</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">28.189</field>
+            <field name="Quantity Footnotes"></field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Commodity - Transaction">Electricity - total solar production</field>
+            <field name="Year">2017</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">27.945</field>
+            <field name="Quantity Footnotes"></field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Commodity - Transaction">Electricity - total solar production</field>
+            <field name="Year">2016</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">27</field>
+            <field name="Quantity Footnotes"></field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Commodity - Transaction">Electricity - total solar production</field>
+            <field name="Year">2015</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">25</field>
+            <field name="Quantity Footnotes"></field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Commodity - Transaction">Electricity - total solar production</field>
+            <field name="Year">2014</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">22</field>
+            <field name="Quantity Footnotes"></field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Commodity - Transaction">Electricity - total solar production</field>
+            <field name="Year">2013</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">23</field>
+            <field name="Quantity Footnotes"></field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Commodity - Transaction">Electricity - total solar production</field>
+            <field name="Year">2012</field>
+            <field name="Unit">Kilowatt-hours, million</field>
+            <field name="Quantity">22</field>
+            <field name="Quantity Footnotes"></field>
+            <field name="Quantity Footnotes"></field>
+        </record>
+    </data>
+    <footnotes>
+        <footnote fnSeqID="1">Estimate</footnote>
+    </footnotes>
+</ROOT>
